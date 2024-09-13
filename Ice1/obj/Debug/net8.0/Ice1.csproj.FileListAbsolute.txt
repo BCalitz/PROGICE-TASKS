@@ -1,0 +1,14 @@
+g:\ProgIce\Ice1\bin\Debug\net8.0\Ice1.exe
+g:\ProgIce\Ice1\bin\Debug\net8.0\Ice1.deps.json
+g:\ProgIce\Ice1\bin\Debug\net8.0\Ice1.runtimeconfig.json
+g:\ProgIce\Ice1\bin\Debug\net8.0\Ice1.dll
+g:\ProgIce\Ice1\bin\Debug\net8.0\Ice1.pdb
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.GeneratedMSBuildEditorConfig.editorconfig
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.AssemblyInfoInputs.cache
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.AssemblyInfo.cs
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.csproj.CoreCompileInputs.cache
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.dll
+g:\ProgIce\Ice1\obj\Debug\net8.0\refint\Ice1.dll
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.pdb
+g:\ProgIce\Ice1\obj\Debug\net8.0\Ice1.genruntimeconfig.cache
+g:\ProgIce\Ice1\obj\Debug\net8.0\ref\Ice1.dll
